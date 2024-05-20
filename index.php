@@ -82,7 +82,7 @@ if (isset($_GET['edit'])) {
               <tr>
                 <th class="md:px-2 py-2 font-semibold text-gray-700 whitespace-nowrap">Nama</th>
                 <th class="md:px-2 py-2 font-semibold text-gray-700 whitespace-nowrap">Nis</th>
-                <th class="md:px-2 py-2 font-semibold text-gray-700 whitespace-nowrap">Rombel</th>
+                <th class="md:px-2 py-2 font-semibold text-gray-700 whitespace-nowrap">Rayon</th>
               </tr>
             </thead>
 
